@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.category-aktif.list-group-item{
+  background-color: darkslategray;
+  color: white;
+}
+.result{
+  height: 450px!important;
+}
+
+.overflow-auto::-webkit-scrollbar{
+  display: none;
+}
